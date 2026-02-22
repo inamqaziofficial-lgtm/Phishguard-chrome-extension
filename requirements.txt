@@ -1,8 +1,9 @@
 fastapi
 uvicorn
-scikit-learn==1.6.1
+scikit-learn
 joblib
 numpy
 python-whois
 dnspython
+
 tldextract
